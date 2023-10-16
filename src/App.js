@@ -13,6 +13,18 @@ function App() {
             <Carousel.Item><img alt="appartement-3" className="vh-100" src="appartement/3.jpeg"/></Carousel.Item>
             <Carousel.Item><img alt="appartement-4" className="vh-100" src="appartement/4.jpeg"/></Carousel.Item>
             <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/5.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/6.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/7.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/8.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/9.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/10.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/11.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/12.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/13.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/14.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/15.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/16.jpeg"/></Carousel.Item>
+            <Carousel.Item><img alt="appartement-5" className="vh-100" src="appartement/17.jpeg"/></Carousel.Item>
         </Carousel>
     );
 }
